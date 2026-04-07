@@ -6,7 +6,7 @@ A modern, single-page personal portfolio built with pure HTML, CSS & vanilla Jav
 
 ## 🌐 Live Demo
 
-👉 [iam269.github.io/Website-demo]([https://iam269.github.io/Website-demo/](https://itsiamdev.github.io/Website-demo/))
+👉 [iam269.github.io/Website-demo]([https://itsiamdev.github.io/Website-demo/](https://itsiamdev.github.io/Website-demo/))
 
 ## ✨ Features
 
