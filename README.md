@@ -6,7 +6,7 @@ A modern, single-page personal portfolio built with pure HTML, CSS & vanilla Jav
 
 ## 🌐 Live Demo
 
-👉 [iam269.github.io/Website-demo]([https://itsiamdev.github.io/Website-demo/](https://itsiamdev.github.io/Website-demo/))
+👉 [https://itsiamdev.github.io/Website-demo/](https://itsiamdev.github.io/Website-demo/)
 
 ## ✨ Features
 
@@ -17,7 +17,7 @@ A modern, single-page personal portfolio built with pure HTML, CSS & vanilla Jav
 - **Active nav highlighting** based on scroll position
 - **Zero dependencies** — no npm, no build step, just open `index.html`
 
-## 🗂 Sections
+## ��� Sections
 
 - **Hero** — Name, tagline, and call-to-action
 - **About** — Bio and key stats
